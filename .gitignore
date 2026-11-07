@@ -22,3 +22,5 @@ appsettings.Local.json
 appsettings.json
 **/Properties/launchSettings.json
 *.http
+
+desktop.ini
